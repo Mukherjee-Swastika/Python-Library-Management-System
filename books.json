@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "title": "Python Basics",
+    "author": "John Smith"
+  },
+  {
+    "id": "2",
+    "title": "Machine Learning",
+    "author": "Andrew Ng"
+  },
+  {
+    "id": "3",
+    "title": "Data Science Handbook",
+    "author": "Jake VanderPlas"
+  },
+  {
+    "id": "4",
+    "title": "Clean Code",
+    "author": "Robert Martin"
+  },
+  {
+    "id": "5",
+    "title": "Artificial Intelligence",
+    "author": "Stuart Russell"
+  }
+]
